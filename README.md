@@ -1,20 +1,19 @@
 # Smart Home Solutions for Intrusion Detection
 ![Profile picture](https://github.com/Aadhaar-debug/6th_Sem_Mini_Project_COM612/blob/main/IMages/miniprojectframework.jpg)
 
-# AUTOMATING RETRO GAMES USING THE REINFROCEMENT LEARNING 
-## TEAM NAME - TEAM Trex
+# INTRUSION DETECTION FRAMEWORK IN HOME AUTOMATION SYSTEM USING COMPUTER VISION
+## TEAM NAME - TEAM KAVACH
 
 - TEAM LEADER - AADHAAR KOUL (5th semester cse dept)
 - TEAM MEMBER - ARJUN CHARAK (5th semester cse dept)
-- TEAM MEMBER - SHOBIT KITCHLOO (5th semester cse dept)
-- TEAM MEMBER - SIDDHARTH BHAWANI (5th semester cse dept)
-- TEAM MEMBER - ANIL KUMAR (5th semester cse dept)
+- TEAM MEMBER - BASEER FATIMA (5th semester cse dept)
+- TEAM MEMBER - NOVNEET SINGH (5th semester cse dept)
 
-CLASS COORDINATOR - ARJUN PURI
+CLASS COORDINATOR - ARJUN PURI SIR
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Complete Automation of some of the most renouned game titles using the reinforcement learning.
+"Protecting your home with the power of sight - our intrusion detection system sees everything, so you don't have to."
 
 - EQUAL CONTRIBUTION
 - NO PLAGIARISM
@@ -22,36 +21,24 @@ Complete Automation of some of the most renouned game titles using the reinforce
 
 ## ABSTRACT
 
+A cutting-edge intrusion detection and automation system that uses advanced technology such as Computer Vision, Honeypot technology, and Neural Networks to accurately detect and classify intrusions in the network as well as the lodging. With additional features such as IoT technology, locking mechanisms, parameter directory sensors, and an Augmented Reality (AR) based application, development of a seamless and consumer-friendly experience that takes security to the next level.
 
-General game testing relies on the use of
-human play testers, play test scripting, and prior knowledge
-of areas of interest to produce relevant test data. Using deep
-reinforcement learning (DRL), we introduce a self-learning
-mechanism to the game testing framework. With DRL, the
-framework is capable of exploring and/or exploiting the
-game mechanics based on a user-defined, reinforcing reward
-signal. As a result, test coverage is increased and unintended
-game play mechanics, exploits and bugs are discovered in
-a multitude of game types. In this paper, we show that
-DRL can be used to increase test coverage, find exploits,
-test map difficulty, and to detect common problems that
-arise in the testing of first-person shooter (FPS) games.In
-this paper, we study applying Reinforcement Learning to
-design a automatic agent to play the game Super Mario
-Bros. One of the challenge is how to handle the complex
-game environment. By abstracting the game environment
-into a state vector and using Q learning — an algorithm
-oblivious to transitional probabilities — we achieve tractable
-computation time and fast convergence. After training
-for 5000 iterations, our agent is able to win about 90
-percent of the time. We also compare and analyze the choice
-of different learning rate (alpha) and discount factor (gamma)
+Objectives:
+1. Development of an advanced intrusion detection networking system, automation, and notification system using the latest Computer Vision and Honeypot technology, as well as Conventional Neural Networks-based network and home security systems.
+2.Creating a hardware and software solution that accurately classifies the level of intrusion in a premises or Local Area Network/Wide Area Network.
+3. Developing a coordinated framework and parameter directory sensors that provide a seamless security system.
+4. Design and implementing an IoT-based locking system that prevents unauthorized access to the property using Computer Vision and Neural Networks framework.
+5. Development of an Augmented Reality-based application to work with GenioSwitch (our unique product) to enable non-smart devices to function as smart devices without replacing them.
+6. Creating an advanced notification and alarming system that alerts users in real-time when an intrusion is detected or when the locking system is applied.
+7. Conduction of comprehensive market research to ensure that the system meets the unique requirements of businesses and consumers.
+
 
 
 ## Tech
-
-- PYTHON - V3.10 , 3.8 AND 3.7
-- PYTHON IDE
+- IOT Microcontrollers - (Arduino Uno , Pro Micro , ESP32CAm , ESP8266)
+- IOT Programming Boards - (Raspberry Pi , Pico , 4 , Zero)
+- C , Arduino , C#  
+- Blynk Cloud , Unity
 
 ## Specifications (Minimum requirement)
 
@@ -62,34 +49,6 @@ of different learning rate (alpha) and discount factor (gamma)
 - INTERNET CONNECTIVITY - NOT REQUIRED 
 
 NOTE : To install some of the packages the internet connectivity might be a requirement.
-
-## IMPLEMENTATION
-# The below given implementation is done for the snake game , so use the given below instructions for your benifit.
-
-Open up the IDE command terminal . In our case we have used the VSCODE IDE and install the following packages:
-- pygame
-```
-pip install pygame
-```
-- numpy
-```
-pip install numpy
-```
-- torch
-```
-pip install torch
-```
-- matplotlib
-```
-pip install matplotlib
-```
-
-
-
-* After the above are executed head on to the agent.py file and run the python code. A pygame window should appear with the snake game on it 
-* let it run and generate some of the punishment and rewards for the until it maintains a Q- table .
-* At a certain point the snake should be able to get the rewards all the time with less errors
-* At this stage the snake Ai will be trained to play the all on its own.
 
 
 ## DOCUMENT AND THE PPT FILE CAN BE FOUND IN THIS REPOSITORY ONLY JUST CHECK THE REPOSITORY CONTENTS ABOVE 
