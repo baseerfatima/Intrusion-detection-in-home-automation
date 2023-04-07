@@ -1,3 +1,5 @@
+![Rewards and Punishments]([https://github.com/Aadhaar-debug/6th_Sem_Mini_Project_COM612/blob/main/IMages/miniprojectframework.jpg])
+
 # Smart Home Solutions for Intrusion Detection
 ![Profile picture](https://github.com/Aadhaar-debug/6th_Sem_Mini_Project_COM612/blob/main/IMages/miniprojectframework.jpg)
 
@@ -10,8 +12,6 @@
 - TEAM MEMBER - NOVNEET SINGH (5th semester cse dept)
 
 CLASS COORDINATOR - ARJUN PURI SIR
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 "Protecting your home with the power of sight - our intrusion detection system sees everything, so you don't have to."
 
@@ -58,7 +58,7 @@ NOTE : To install some of the packages the internet connectivity might be a requ
 
 ![Code Sample]([https://github.com/Aadhaar-debug/PYTHON_PROGRAMMING_5TH_SEMESTER_PROJECT/blob/main/Screenshots/Screenshot%20(316).png])
 ![Initial Training]([https://github.com/Aadhaar-debug/PYTHON_PROGRAMMING_5TH_SEMESTER_PROJECT/blob/main/Screenshots/Screenshot%20(317).png])
-![Rewards and Punishments]([https://github.com/Aadhaar-debug/PYTHON_PROGRAMMING_5TH_SEMESTER_PROJECT/blob/main/Screenshots/Screenshot%20(318).png])
+
 
 
 
