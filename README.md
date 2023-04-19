@@ -15,6 +15,7 @@ CLASS COORDINATOR - ARJUN PURI SIR
 
 "Protecting your home with the power of sight - our intrusion detection system sees everything, so you don't have to."
 
+
 - EQUAL CONTRIBUTION
 - NO PLAGIARISM
 - COPYRIGHT RESERVED TO MIET JAMMU 5TH SEMESTER CLASS A1 STUDENTS
