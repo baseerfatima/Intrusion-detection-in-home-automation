@@ -1,4 +1,3 @@
-![alt text](https://github.com/Aadhaar-debug/6th_Sem_Mini_Project_COM612/blob/main/IMages/miniprojectframework.jpg)
 
 # Smart Security Solutions for Intrusion Detection
 ![Profile picture](https://github.com/Aadhaar-debug/6th_Sem_Mini_Project_COM612/blob/main/IMages/miniprojectframework.jpg)
