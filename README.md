@@ -1,8 +1,4 @@
 
-# Smart Security Solutions for Intrusion Detection
-![Profile picture](https://github.com/Aadhaar-debug/6th_Sem_Mini_Project_COM612/blob/main/Components.jpg)
-
-![Profile picture](https://github.com/Aadhaar-debug/6th_Sem_Mini_Project_COM612/blob/main/IMages/miniprojectframework.jpg)
 
 # INTRUSION DETECTION FRAMEWORK IN HOME AUTOMATION SYSTEM USING COMPUTER VISION
 ## TEAM NAME - TEAM KAVACH
@@ -15,6 +11,11 @@
 CLASS COORDINATOR - ARJUN PURI SIR
 
 "Protecting your home with the power of sight - our intrusion detection system sees everything, so you don't have to."
+
+# Smart Security Solutions for Intrusion Detection
+![Profile picture](https://github.com/Aadhaar-debug/6th_Sem_Mini_Project_COM612/blob/main/Components.jpg)
+
+![Profile picture](https://github.com/Aadhaar-debug/6th_Sem_Mini_Project_COM612/blob/main/IMages/miniprojectframework.jpg)
 
 
 - EQUAL CONTRIBUTION
