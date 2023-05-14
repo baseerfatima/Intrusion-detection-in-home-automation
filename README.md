@@ -6,7 +6,7 @@
 - TEAM LEADER - AADHAAR KOUL (5th semester cse dept)
 - TEAM MEMBER - ARJUN CHARAK (5th semester cse dept)
 - TEAM MEMBER - BASEER FATIMA (5th semester cse dept)
-- TEAM MEMBER - NOVNEET SINGH (5th semester cse dept)
+- TEAM MEMBER - NAVNEET KOUR (5th semester cse dept)
 
 CLASS COORDINATOR - ARJUN PURI SIR
 
