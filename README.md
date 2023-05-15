@@ -37,11 +37,14 @@ Objectives:
 
 
 
-## Tech
+## Technial Stack
+- C , Arduino , C# , Python , Javascript , HTML , CSS , Java , XML
+- Blynk Cloud , Tensorflow , Computer Vision , Open CV , Django
+
+## Hardware Stack
 - IOT Microcontrollers - (Arduino Uno , Pro Micro , ESP32CAm , ESP8266)
 - IOT Programming Boards - (Raspberry Pi , Pico , 4 , Zero)
-- C , Arduino , C#  
-- Blynk Cloud , Unity
+- Raspbian OS 
 
 ## Specifications (Minimum requirement)
 
