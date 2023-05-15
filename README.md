@@ -3,10 +3,10 @@
 # INTRUSION DETECTION FRAMEWORK IN HOME AUTOMATION SYSTEM USING COMPUTER VISION
 ## TEAM NAME - TEAM KAVACH
 
-- TEAM LEADER - AADHAAR KOUL (5th semester cse dept)
-- TEAM MEMBER - ARJUN CHARAK (5th semester cse dept)
-- TEAM MEMBER - BASEER FATIMA (5th semester cse dept)
-- TEAM MEMBER - NAVNEET KOUR (5th semester cse dept)
+- TEAM LEADER - AADHAAR KOUL (6th semester cse dept)
+- TEAM MEMBER - ARJUN CHARAK (6th semester cse dept)
+- TEAM MEMBER - BASEER FATIMA 6th semester cse dept)
+- TEAM MEMBER - NAVNEET KOUR (6th semester cse dept)
 
 CLASS COORDINATOR - ARJUN PURI SIR
 
