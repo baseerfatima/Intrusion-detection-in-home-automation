@@ -16,8 +16,6 @@ CLASS COORDINATOR - ARJUN PURI SIR
 ![Profile picture](https://github.com/Aadhaar-debug/6th_Sem_Mini_Project_COM612/blob/main/Components.jpg)
 
 ![Profile picture](https://github.com/Aadhaar-debug/6th_Sem_Mini_Project_COM612/blob/main/IMages/miniprojectframework.jpg)
-
-
 - EQUAL CONTRIBUTION
 - NO PLAGIARISM
 - REDISTRIBUTION OF ANY CORE COMPONENTS TO MAKE PROFITS WILL BE TREATED AS AN ACTIONABLE OFFENCE.
